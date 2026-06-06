@@ -16,6 +16,13 @@ How does profitability vary across fiscal years and months?
 
 This project addresses these questions through interactive financial reports built in Excel.
 
+**Key Performance Indicators (KPIs) :**
+Net Sales,
+Cost of Goods Sold (COGS),
+Gross Margin,
+Gross Margin Percentage (GM%),
+Year-over-Year Growth
+
 **Reports Included :**
 **1. P&L Report by Fiscal Years :**
 Provides a high-level financial summary across fiscal years 2019–2021.
@@ -55,13 +62,6 @@ Monthly Gross Margin trends help identify seasonal business performance.
 The report enables tracking of profitability throughout the fiscal cycle.
 
 Report Link: https://github.com/pranshunegi030/atliq_financial_analysis_excel/blob/main/P%20%26%20L%20By%20Months.pdf
-
-**Key Performance Indicators (KPIs) :**
-Net Sales,
-Cost of Goods Sold (COGS),
-Gross Margin,
-Gross Margin Percentage (GM%),
-Year-over-Year Growth
 
 **Tools & Techniques Used :**
 Microsoft Excel,
